@@ -8,11 +8,9 @@ A simple and intuitive Flutter app that calculates a user's age and determines t
 - **Fun Facts**: Displays an interesting fact about the zodiac sign.  
 - **Simple UI**: A clean, blue-themed UI for a great user experience.  
 
-## Screenshots  
-![Screenshot 1](https://via.placeholder.com/600x300)  
-> Home screen with input for Date of Birth.  
+## App Demo  
 
-![Screenshot 2](https://via.placeholder.com/600x300)  
+https://github.com/user-attachments/assets/c2e99a89-deb9-42f4-9596-31f7c370f1ee
 > Displaying calculated age, zodiac sign, and fun fact.  
 
 ## Installation  
